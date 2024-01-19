@@ -1,5 +1,5 @@
 let nomeHeroi = "GuiiSh0w"
-let xpHeroi = "10001"
+let xpHeroi = "10002"
 let nivelHeroi = ""
 
 
